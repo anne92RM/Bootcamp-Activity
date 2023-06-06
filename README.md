@@ -22,7 +22,7 @@ In your groups, discuss the following questions:
   - Increase of Median Income over time
   - Property Tax and Home Value over time
   - Increase in Rent Over Time
-Pay special attention to details like:
+* Pay special attention to details like:
   - Income
   - College Degrees
   - Number of Schools and Hospitals
